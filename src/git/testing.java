@@ -8,6 +8,6 @@ public class testing {
 		System.out.println("water is blue");
 		
 		//feature
-		System.out.println("water is blue");
+		System.out.println("water is red");
 	}
 }
