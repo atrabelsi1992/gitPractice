@@ -6,5 +6,8 @@ public class testing {
 
 		System.out.println("water is colourless");
 		System.out.println("water is blue");
+		
+		//feature
+		System.out.println("water is blue");
 	}
 }
