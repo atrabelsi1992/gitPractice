@@ -9,5 +9,8 @@ public class testing {
 		
 		//feature
 		System.out.println("water is red");
+		//abracadabra 
+		
+		System.out.println("hello from the other side");
 	}
 }
